@@ -11,9 +11,10 @@ matplotlib = "*"
 scipy = "*"
 nltk = "*"
 spacy = "*"
+jupyter = "*"
+torch = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.11"
